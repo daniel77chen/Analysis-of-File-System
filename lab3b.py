@@ -1,7 +1,5 @@
 #! /usr/local/cs/bin/python3
-#NAME: Daniel Chen,Winston Lau
-#EMAIL: kim77chi@gmail.com,winstonlau99@gmail.com
-#ID: 605006027,504934155
+
 
 import sys
 import csv
